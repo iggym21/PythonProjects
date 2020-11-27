@@ -18,4 +18,3 @@ def main():
         print("Motto: " + self.motto)
         print("Superpower: " + self.superpower)
 main()
-print("")
